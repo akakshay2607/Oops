@@ -43,3 +43,6 @@ print(l1)
 print(l1.point_on_line(p2))
 
 print(l1.shortest_distance(p1))
+
+def add_():
+    pass
